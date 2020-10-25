@@ -1,6 +1,7 @@
 # pitcoin_block_explorer
 
 This a simple prototype of bitcoin and a block explorer for it.
+Pitcoin source code and be found in `pitcoin_mainnet_node_edition` and in the repo: https://github.com/akorunska/pitcoin
 
 ## Build Setup
 
